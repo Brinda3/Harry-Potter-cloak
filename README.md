@@ -1,7 +1,7 @@
 # Harry-Potter-cloak
 Its a Invisible cloak created using python and open CV.
 
-To Get strted with :
+To Get started with :
 First import required packages such as
       # open CV
       # numpy
